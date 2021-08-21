@@ -1,6 +1,6 @@
 # py-minimake
 
-See [EXAMPLES](EXAMPLES.ipynb)
+See [EXAMPLE](EXAMPLE.ipynb)
 
 ## See also
 
